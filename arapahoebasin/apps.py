@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AraphoebasinConfig(AppConfig):
+class ArapahoebasinConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'araphoebasin'
+    name = 'arapahoebasin'
